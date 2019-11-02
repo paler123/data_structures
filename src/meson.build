@@ -1,7 +1,7 @@
 data_structures_sources = [
-  '../include/tree.cpp',
-  '../include/trie.cpp',
-  '../include/matrix.cpp'
+  '../include/data_structures/tree.cpp',
+  '../include/data_structures/trie.cpp',
+  '../include/data_structures/matrix.cpp'
 ]
 
 data_structures_lib = library(

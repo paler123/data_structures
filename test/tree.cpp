@@ -1,4 +1,4 @@
-#include "tree.hpp"
+#include "data_structures/tree.hpp"
 
 #include <catch2/catch.hpp>
 

@@ -1,4 +1,4 @@
-#include "trie.hpp"
+#include "data_structures/trie.hpp"
 
 #include <catch2/catch.hpp>
 

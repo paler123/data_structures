@@ -1,4 +1,4 @@
-#include "matrix.hpp"
+#include "data_structures/matrix.hpp"
 
 #include "catch2/catch.hpp"
 
