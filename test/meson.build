@@ -1,4 +1,5 @@
 data_structures_ut_sources = [
+  'matrix.cpp',
   'tree.cpp',
   'trie.cpp',
   'tests.cpp'

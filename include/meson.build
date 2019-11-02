@@ -1,5 +1,5 @@
 install_headers(
-  ['trie.hpp', 'array2d.hpp'],
+  ['trie.hpp', 'array2d.hpp', 'matrix.hpp'],
   subdir : 'trie'
 )
 
